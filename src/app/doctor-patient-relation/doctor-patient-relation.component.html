@@ -1,0 +1,15 @@
+<form>    
+    <label>Select Doctor&nbsp;</label>
+    <select name="doctorDetails" [(ngModel)]="doctorName" (change)="findCorrespondingPatient()">
+        <option *ngFor="let doctor of doctorPatientList" [ngValue]="doctor.doctorName">{{doctor.doctorName}}</option>
+    </select>
+
+    <br><br>
+
+    <ng-container *ngIf="doctorName">
+        <label>Select Patient&nbsp;</label>
+        <select name="patientDetails" [(ngModel)]="patientName">
+            <option *ngFor="let patient of patientList" [ngValue]="patient.patientName">{{patient.patientName}}</option>
+        </select>
+    </ng-container>
+</form>

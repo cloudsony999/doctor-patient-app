@@ -1,0 +1,30 @@
+[
+    {
+        "doctorName": "Uttam Chatterjee",
+        "patient": [
+            {
+                "patientName": "Soham Das"
+            },
+            {
+                "patientName": "Arnab Pal"
+            },
+            {
+                "patientName": "Minakshi Prakash"
+            }
+        ]
+    },
+    {
+        "doctorName": "Goutam Mallick",
+        "patient": [
+            {
+                "patientName": "Avik Das"
+            },
+            {
+                "patientName": "Munmun Roy"
+            },
+            {
+                "patientName": "Sonia Kumari"
+            }
+        ]
+    }
+]
