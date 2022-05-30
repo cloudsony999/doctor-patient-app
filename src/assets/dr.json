@@ -1,0 +1,89 @@
+[
+    {
+    "doctorId": 1,
+    "doctorName": "Amitava",
+    "doctorSpecialization": "lung specialist",
+    "doctorContact": "666",
+    "availableOrNot": "yes",
+    "patientAttend": 0,
+    "patient": [
+    {
+    "patientId": 2,
+    "patientName": "ankit",
+    "patientAge": 22,
+    "gender": "male",
+    "bloodGroup": "o-group",
+    "patientContact": "9999999999",
+    "date": "2022-05-30",
+    "patientAddress": "kolkata",
+    "anyMajorDisease": "no"
+    },
+    {
+    "patientId": 3,
+    "patientName": "ankan",
+    "patientAge": 32,
+    "gender": "male",
+    "bloodGroup": "o-group",
+    "patientContact": "9799999999",
+    "date": "2022-05-30",
+    "patientAddress": "chennai",
+    "anyMajorDisease": "no"
+    },
+    {
+    "patientId": 4,
+    "patientName": "anuja",
+    "patientAge": 24,
+    "gender": "female",
+    "bloodGroup": "o-group",
+    "patientContact": "9996999999",
+    "date": "2022-05-30",
+    "patientAddress": "delhi",
+    "anyMajorDisease": "no"
+    }
+    ]
+    },
+    {
+    "doctorId": 5,
+    "doctorName": "DipankarSir",
+    "doctorSpecialization": "kidney specialist",
+    "doctorContact": "6666666666",
+    "availableOrNot": "yes",
+    "patientAttend": 0,
+    "patient": [
+    {
+    "patientId": 6,
+    "patientName": "Rohon",
+    "patientAge": 22,
+    "gender": "male",
+    "bloodGroup": "a-group",
+    "patientContact": "9899999999",
+    "date": "2022-05-30",
+    "patientAddress": "delhi",
+    "anyMajorDisease": "no"
+    },
+    {
+    "patientId": 7,
+    "patientName": "Dipak",
+    "patientAge": 22,
+    "gender": "male",
+    "bloodGroup": "a-group",
+    "patientContact": "9899999999",
+    "date": "2022-05-30",
+    "patientAddress": "delhi",
+    "anyMajorDisease": "no"
+    },
+    {
+    "patientId": 8,
+    "patientName": "Renu",
+    "patientAge": 22,
+    "gender": "female",
+    "bloodGroup": "a-group",
+    "patientContact": "9899999999",
+    "date": "2022-05-30",
+    "patientAddress": "delhi",
+    "anyMajorDisease": "no"
+    }
+    ]
+    }
+    ]
+    
